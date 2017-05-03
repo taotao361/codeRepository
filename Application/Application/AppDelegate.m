@@ -21,6 +21,8 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     
+    
+    
     /**
      调起应用程序的方式有好多种；
      1、用户自己打开应用   launchOptions 无数据
