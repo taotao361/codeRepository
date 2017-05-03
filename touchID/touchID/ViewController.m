@@ -2,7 +2,6 @@
 //  ViewController.m
 //  touchID
 //
-//  Created by yangxutao on 17/5/3.
 //  Copyright © 2017年 yangxutao. All rights reserved.
 //
 
